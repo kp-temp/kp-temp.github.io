@@ -173,7 +173,7 @@ h6 {
 }
 
 .navbar a {
-  display: flex;
+  display: inline-block;
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 27px;
