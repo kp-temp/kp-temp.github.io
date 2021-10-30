@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #444444;
 }
 
@@ -16,13 +16,15 @@ a:hover {
   text-decoration: none;
 }
 
-h1,
+h1{
+  font-family: "ubuntu", sans-serif;
+},
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Jost", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -131,7 +133,7 @@ h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 2px;
-  font-family: "Roboto", sans-serif;
+  font-family: "ubuntu", sans-serif;
   /*text-transform: uppercase;*/
 }
 
@@ -641,7 +643,7 @@ section {
 
 .about .content p {
   text-align: justify;
-  font-size: 17.5px;
+  font-size: 15px;
   padding: 0px 10px;
 }
 
